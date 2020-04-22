@@ -1,11 +1,11 @@
-### today-i-learned
+# today-i-learned
 #TIL과 일일 커밋
 
-# 2020.04.20(월)
+### 2020.04.20(월)
 마리이디비 db
 BigDecimal type컬럼의 소수점은 truncate를 사용하여야한다.
 
-# 2020.04.21(화)
+### 2020.04.21(화)
 how to js file import
 
 // tag import
