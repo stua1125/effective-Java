@@ -2,6 +2,7 @@ package efffectiveJavaitem14;
 
 import java.util.Collections;
 import java.util.Set;
+import java.util.TreeSet;
 
 //Comparable 구현 시의 이점 (87쪽)
 public class WordList {
