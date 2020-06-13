@@ -1,4 +1,4 @@
-package efffectiveJavaitem14;
+package efffectiveJava.item14;
 
 import java.util.*;
 import java.util.concurrent.ThreadLocalRandom;
